@@ -1,0 +1,59 @@
+
+.ibm-plex-sans-<uniquifier> {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body{
+font-family: "IBM Plex Sans", sans-serif;
+
+  background-color: #fffcf6;
+  margin: 300px;
+  padding: 40px;
+
+  color: #838383;
+}
+
+h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+font-weight: 100;
+font-size: 70px;
+  text-align: left;
+  color: #c25e00;
+}
+
+form input,
+    form select,
+    form button {
+     font-family: "IBM Plex Sans", sans-serif;
+     font-weight: 300;
+      padding: 10px;
+      margin: 5px 0;
+      font-size: 30px;
+      border-radius: 30px;
+      border: 5px;
+    }
+
+    
+
+#guest-list {
+      list-style: none;
+      font-family: "IBM Plex Sans", sans-serif;
+      font-size: 20px;
+      padding: 0;
+    }
+
+    li {
+      background: rgb(252, 238, 225);
+      padding: 10px;
+      margin: 8px 0;
+      border-radius: 10px;
+      display: flex;
+      
+    }
+
+    
