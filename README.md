@@ -7,15 +7,26 @@ This project is a simple web application designed to help users manage a guest l
 
 **#Features**
 
-- Add a guest to a numbered list
-- Remove a guest from the list
-- Limit guest list to 10 people (with alert)
+- Add a guest to a list using the input and add button.
+- Remove a guest from the list.
+- Limit guest list to 10 people (with alert).
 - Mark guests as “Attending” or “Not Attending”
 - Add a timestamp for when the guest was added
 - Styled with custom CSS
 
 **#Technologies Used**
-
 - HTML5
 - CSS3
-- JavaScript (DOM manipulation and event handling
+- JavaScript (DOM manipulation and event handling)
+
+**#Project Setup**
+
+This repository includes a JavaScript file, a CSS file, and an HTML file for the Guest List Manager application.
+
+**#How to run the solutions**
+
+1. Clone the repository.
+2. Navigate to the project folder.
+3. Open the index.html file in your browser.
+4. Use the app (Add upto 10 guests, use the add and remove features)
+
