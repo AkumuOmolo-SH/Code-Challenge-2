@@ -1,9 +1,11 @@
 # Code-Challenge-2
-#Guest List Manager
+This repository contains my solutions for Code Challenge 2. In this challenge, we were tasked with building a simple Event Guest List Manager using JavaScript. The goal was to demonstrate our understanding of working with forms, events, and DOM manipulation. All interactivity and updates to the page were handled using JavaScript, without refreshing the browser.
 
-A simple web application that allows users to manage a guest list for an event. Built using HTML, CSS, and JavaScript.
+**#Guest List Manager**
 
-##Features
+This project is a simple web application designed to help users manage a guest list for an event. Built with HTML, CSS, and JavaScript, it enables users to add, remove, toggle RSVP status for guests, and see the time a guest was added — all dynamically, without refreshing the page.
+
+**#Features**
 
 - Add a guest to a numbered list
 - Remove a guest from the list
@@ -12,7 +14,7 @@ A simple web application that allows users to manage a guest list for an event. 
 - Add a timestamp for when the guest was added
 - Styled with custom CSS
 
-##Technologies Used
+**#Technologies Used**
 
 - HTML5
 - CSS3
