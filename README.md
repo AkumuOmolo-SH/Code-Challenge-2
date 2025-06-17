@@ -30,3 +30,14 @@ This repository includes a JavaScript file, a CSS file, and an HTML file for the
 3. Open the index.html file in your browser.
 4. Use the app (Add upto 10 guests, use the add and remove features)
 
+
+##  Author &  License
+
+**Author:** [Akumu Omolo](https://github.com/AkumuOmolo-SH)
+
+**License:** MIT License  
+This project is licensed under the [MIT License](LICENSE), meaning you're free to use, modify, and distribute it with proper attribution.
+
+
+
+
